@@ -22,7 +22,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [GitHub Pages](https://your-solution-url.com](https://dragonfireshield.github.io/single-price-grid/)
+- Solution URL: [GitHub Pages](https://dragonfireshield.github.io/single-price-grid/)
 
 ## My process
 
